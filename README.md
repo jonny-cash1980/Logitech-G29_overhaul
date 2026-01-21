@@ -3,6 +3,5 @@ Mod Collection for Logitech G29 (and eventually other like G920, G923...)
 
 
 
-Credits:
-  Loadcell:/n
-  https://github.com/europer/Logitech-G29-Load-Cell
+Credits:  
+  Loadcell:  https://github.com/europer/Logitech-G29-Load-Cell
