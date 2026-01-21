@@ -7,4 +7,12 @@ Most of this project will be based of the research of XXXXXXX who did a great jo
 ## Project steps
 
 1. Select **Hardware/Firmware** setup (there is enoght around to not start with a blank sheet of paper)
-2. 
+2. Wireing the Hardware
+3. Writing the firmware
+   - Webserver with config page
+   - Data inpt from X711 board
+   - "Calculation"
+   - Optput in
+     - Joycon driver via USB for PC (reduce latency and no need for linearization)
+     - PWM output for direct connection to G920 harnest
+5.  Beers...
